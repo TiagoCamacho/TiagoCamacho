@@ -4,5 +4,4 @@
   📫 Currently working on a Mobile Game.<br/>
   👯 Always open to collaborate on projects like games and learning new technologies.<br/>
   ⚡ I used to be a musician. But after college, I decided to be a Software Engineer. Full time 🎵<br/>
-    
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoCamacho)](https://github.com/anuraghazra/github-readme-stats)
+  
